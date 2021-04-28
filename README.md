@@ -2,4 +2,4 @@
 
 test deploy
 
-http://localhost:3000/react-deploy
+https://wat885.github.io/react-deploy/
